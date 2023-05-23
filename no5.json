@@ -1,0 +1,23 @@
+{
+    "users": {
+      "user": [
+        {
+          "username": "SammyShark",
+          "location": "Indian Ocean"
+        },
+        {
+          "username": "JesseOctopus",
+          "location": "Pacific Ocean"
+        },
+        {
+          "username": "DrewSquir",
+          "location": "Atlantic Ocean"
+        },
+        {
+          "username": "JamieMantisShrimp",
+          "location": "Pacific Ocean"
+        }
+      ]
+    }
+  }
+  

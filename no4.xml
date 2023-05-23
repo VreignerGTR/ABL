@@ -1,0 +1,29 @@
+<data>
+  <first_name>Sammy</first_name>
+  <last_name>Shark</last_name>
+  <location>Ocean</location>
+  <websites>
+    <website>
+      <description>work</description>
+      <URL>https://www.digitalocean.com/</URL>
+    </website>
+    <website>
+      <description>tutorials</description>
+      <URL>https://www.digitalocean.com/community/tutorials</URL>
+    </website>
+  </websites>
+  <social_media>
+    <media>
+      <description>twitter</description>
+      <link>https://twitter.com/digitalocean</link>
+    </media>
+    <media>
+      <description>facebook</description>
+      <link>https://www.facebook.com/DigitalOceanCloudHosting</link>
+    </media>
+    <media>
+      <description>github</description>
+      <link>https://github.com/digitalocean</link>
+    </media>
+  </social_media>
+</data>
